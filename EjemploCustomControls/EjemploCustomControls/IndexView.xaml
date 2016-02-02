@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:customControls="clr-namespace:EjemploCustomControls.CustomControls;assembly=EjemploCustomControls"
+             x:Class="EjemploCustomControls.IndexView">
+<StackLayout>
+  <Label Text="Entry"/>
+  <customControls:CustomEntry Text="Introduzca texto aquí...."></customControls:CustomEntry>
+  <Label Text="Button"/>
+  <customControls:CustomButton Text="Botón"/>
+</StackLayout>
+</ContentPage>
