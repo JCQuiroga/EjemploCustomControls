@@ -24,7 +24,6 @@ namespace EjemploCustomControls.Droid.CustomControls
 
                 button.SizeChanged += (s, args) =>
                 {
-                    
                     // Estado normal
                     _normal = new GradientDrawable();
                     _normal.SetColor(Android.Graphics.Color.DarkBlue);
@@ -40,7 +39,7 @@ namespace EjemploCustomControls.Droid.CustomControls
                     sld.AddState(new int[] { }, _normal);
                     Control.SetBackgroundDrawable(sld);
                     Control.SetTextSize(ComplexUnitType.Px, 60);
-                    Control.SetTextColor(Android.Graphics.Color.LightBlue);
+                    Control.SetTextColor(Android.Graphics.Color.Silver);
                 };
             }
         }

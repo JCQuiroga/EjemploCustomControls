@@ -78,6 +78,7 @@
   <ItemGroup>
     <Compile Include="CustomControls\AndroidButton.cs" />
     <Compile Include="CustomControls\AndroidEntry.cs" />
+    <Compile Include="CustomControls\AndroidLabel.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
