@@ -10,9 +10,3 @@ F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\obj\Debug\EjemploCustomControls.pdb
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\obj\Debug\EjemploCustomControls.dll.mdb
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\bin\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\obj\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\bin\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\obj\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\bin\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\obj\Debug\EjemploCustomControls.dll.mdb
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls\bin\Debug\EjemploCustomControls.dll.mdb

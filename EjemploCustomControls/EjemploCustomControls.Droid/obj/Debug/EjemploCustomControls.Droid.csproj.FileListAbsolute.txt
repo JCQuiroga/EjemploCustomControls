@@ -21,6 +21,5 @@ F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\obj\Debug\R.cs.flag
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\obj\Debug\uploadflags.txt
-F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\bin\Debug\EjemploCustomControls.dll.mdb
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\obj\Debug\EjemploCustomControls.Droid.dll.mdb
 F:\VS Projects\EjemploCustomControls\EjemploCustomControls\EjemploCustomControls.Droid\bin\Debug\EjemploCustomControls.Droid.dll.mdb

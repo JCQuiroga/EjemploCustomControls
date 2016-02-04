@@ -4,10 +4,9 @@
              xmlns:customControls="clr-namespace:EjemploCustomControls.CustomControls;assembly=EjemploCustomControls"
              x:Class="EjemploCustomControls.IndexView"
               Title="Custom Controls">
-<StackLayout>
-  <customControls:CustomLabel Text="Entry"/>
-  <customControls:CustomEntry/>
-  <customControls:CustomLabel Text="Button"/>,
+<StackLayout BackgroundColor="White">
+  <customControls:CustomLabel Text="Etiqueta"/>
+  <customControls:CustomEntry Placeholder="Caja de texto..."/>
   <customControls:CustomButton Text="Botón"/>
 </StackLayout>
 </ContentPage>
