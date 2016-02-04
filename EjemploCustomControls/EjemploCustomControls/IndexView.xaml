@@ -6,7 +6,7 @@
               Title="Custom Controls">
 <StackLayout BackgroundColor="White">
   <customControls:CustomLabel Text="Etiqueta"/>
-  <customControls:CustomEntry Placeholder="Caja de texto..."/>
+  <customControls:CustomEntry Placeholder="Caja de texto... "/>
   <customControls:CustomButton Text="Botón"/>
 </StackLayout>
 </ContentPage>
